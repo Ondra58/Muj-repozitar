@@ -1,0 +1,10 @@
+D:\Moje složka\Škola\Prográmky\Prográmky\Ruleta\bin\Debug\Ruleta.exe.config
+D:\Moje složka\Škola\Prográmky\Prográmky\Ruleta\bin\Debug\Ruleta.exe
+D:\Moje složka\Škola\Prográmky\Prográmky\Ruleta\bin\Debug\Ruleta.pdb
+D:\Moje složka\Škola\Prográmky\Prográmky\Ruleta\obj\Debug\Ruleta.csprojAssemblyReference.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\Ruleta\obj\Debug\Ruleta.Form1.resources
+D:\Moje složka\Škola\Prográmky\Prográmky\Ruleta\obj\Debug\Ruleta.Properties.Resources.resources
+D:\Moje složka\Škola\Prográmky\Prográmky\Ruleta\obj\Debug\Ruleta.csproj.GenerateResource.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\Ruleta\obj\Debug\Ruleta.csproj.CoreCompileInputs.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\Ruleta\obj\Debug\Ruleta.exe
+D:\Moje složka\Škola\Prográmky\Prográmky\Ruleta\obj\Debug\Ruleta.pdb
